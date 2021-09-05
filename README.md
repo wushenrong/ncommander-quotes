@@ -22,3 +22,5 @@ Quotes from NCommander
 `"One one hand I have an awesome community. On the other hand they want me to run OpenVMS"`
 
 `"You could probabbly cross compile it"`
+
+`"I have issues"`
