@@ -24,3 +24,21 @@ Quotes from NCommander
 `"You could probabbly cross compile it"`
 
 `"I have issues"`
+
+`"We are doing fips for um.. maximum pain"`
+
+`"We are still at the um.. we are still at the trying to figure out how to install linux"
+
+`"Funk funk funko's the files.. the floppy disk"`
+
+`"I got a bunch of f's and one g"`
+
+`"I'm apperently causing ptsd in my chat"`
+
+`"This is fine. Everything is fine"`
+
+`"Things run on ponies and magic and magic and ponies"`
+
+`"Wow. Words hard difficult"`
+
+`"Welcome to IBM Operating System divided by 2"`
