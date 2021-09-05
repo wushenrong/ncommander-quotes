@@ -7,12 +7,12 @@ Quotes from NCommander
 
 `“How could that possibly go wrong for me”`
 
-`"How many people does it take to make Ncommander win solitaire"`
+`"How many people does it take to make NCommander win solitaire"`
 
-`"Native Java is not the Ncommander way"`
+`"Native Java is not the NCommander way"`
 
-`"Backups are not the Ncommander way"`
+`"Backups are not the NCommander way"`
 
-`"Why backup when you can reinstall"`r
+`"Why backup when you can reinstall"`
 
 `"I used to build cross-compilers professionally"`
