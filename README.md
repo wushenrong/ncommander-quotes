@@ -27,7 +27,7 @@ Quotes from NCommander
 
 `"We are doing fips for um.. maximum pain"`
 
-`"We are still at the um.. we are still at the trying to figure out how to install linux"
+`"We are still at the um.. we are still at the trying to figure out how to install linux"`
 
 `"Funk funk funko's the files.. the floppy disk"`
 
