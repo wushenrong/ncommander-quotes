@@ -1,4 +1,4 @@
-# ncommander-quotes
+# NCommander-quotes
 Quotes from NCommander
 
 `"And yes HP Unix I’m looking directly at you"`
