@@ -12,3 +12,5 @@ Quotes from NCommander
 `"Native Java is not the Ncommander way"`
 
 `"Backups are not the Ncommander way"`
+
+`"Why backup when you can reinstall"`
