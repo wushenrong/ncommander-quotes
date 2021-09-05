@@ -6,5 +6,5 @@ Quotes from NCommander
 `“Horrific, painful, and DNS”`
 
 `“How could that possibly go wrong for me”`
-
-`"How many people does it take to make Ncommander win solitare"`
+ui
+`"How many people does it take to make Ncommander win solitaire"`
