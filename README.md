@@ -16,3 +16,5 @@ Quotes from NCommander
 `"Why backup when you can reinstall"`
 
 `"I used to build cross-compilers professionally"`
+
+`"aka ./configure --build=x86_64-linux --target=alpha-openvms --host=mips-irix"`
