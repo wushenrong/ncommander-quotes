@@ -13,6 +13,6 @@ Quotes from NCommander
 
 `"Backups are not the Ncommander way"`
 
-`"Why backup when you can reinstall"`f
+`"Why backup when you can reinstall"`r
 
 `"I used to build cross-compilers professionally"`
