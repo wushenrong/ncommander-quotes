@@ -35,12 +35,9 @@ Quotes from NCommander
 
 `"I'm apperently causing ptsd in my chat"`
 
-`"This is fine. Everything is fine"`
-
 `"Things run on ponies and magic and magic and ponies"`
 
 `"Wow. Words hard difficult"`
 
 `"Welcome to IBM Operating System divided by 2"`
 
-`"I'm in danger"`
