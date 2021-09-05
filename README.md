@@ -1,7 +1,7 @@
 # NCommander-quotes
 Quotes from NCommander
 
-`"And yes HP Unix I’m looking directly at you"`
+`"And yes HP-UX I’m looking directly at you"`
 
 `“Horrific, painful, and DNS”`
 
