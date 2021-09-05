@@ -10,3 +10,5 @@ Quotes from NCommander
 `"How many people does it take to make Ncommander win solitaire"`
 
 `"Native Java is not the Ncommander way"`
+
+`"Backups are not the Ncommander way"`
