@@ -42,3 +42,5 @@ Quotes from NCommander
 `"Wow. Words hard difficult"`
 
 `"Welcome to IBM Operating System divided by 2"`
+
+`"I'm in danger"`
