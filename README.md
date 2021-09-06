@@ -26,3 +26,5 @@ Quotes from NCommander
 `"I have issues"`
 
 `"My revenge against those who quoth me is giving them choice"`
+
+`"I should probably give @scj643 some free quotes as an apology"`
