@@ -24,3 +24,5 @@ Quotes from NCommander
 `"You could probabbly cross compile it"`
 
 `"I have issues"`
+
+`"My revenge against those who quoth me is giving them choice"`
