@@ -1,7 +1,7 @@
 # NCommander-quotes
 Quotes from NCommander
 
-`"And yes HP Unix I’m looking directly at you"`
+`"And yes HP-UX I’m looking directly at you"`
 
 `“Horrific, painful, and DNS”`
 
@@ -41,3 +41,8 @@ Quotes from NCommander
 
 `"Welcome to IBM Operating System divided by 2"`
 
+`"My revenge against those who quoth me is giving them choice"`
+
+`"I should probably give @scj643 some free quotes as an apology"`
+
+`"Don't worry, web design is my passion(tm), and I use Frontpage 98 for a less bloated Internet"`
