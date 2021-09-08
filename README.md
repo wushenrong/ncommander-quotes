@@ -48,3 +48,5 @@ Quotes from NCommander
 `"Don't worry, web design is my passion(tm), and I use Frontpage 98 for a less bloated Internet"`
 
 `"I build a machine that compile a machine"`
+
+`"It's been zero days since I last trying patching an operating system older than me to work on a machine older than me."`
