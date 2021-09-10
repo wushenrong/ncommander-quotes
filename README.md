@@ -52,3 +52,5 @@ Quotes from NCommander
 `"It's been zero days since I last trying patching an operating system older than me to work on a machine older than me."`
 
 `"We are going to do something far stupider, because I have a bad idea"`
+
+`"This is not the channel for Good Life Decision(tm)"`
