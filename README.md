@@ -54,3 +54,5 @@ Quotes from NCommander
 `"We are going to do something far stupider, because I have a bad idea"`
 
 `"This is not the channel for Good Life Decision(tm)"`
+
+[Pain is my eternal friend](https://discord.com/channels/702503037289365594/702503037842882582/891107337903943770)
