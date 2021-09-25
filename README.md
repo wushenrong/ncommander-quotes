@@ -41,18 +41,18 @@ Quotes from NCommander
 
 `"Welcome to IBM Operating System divided by 2"`
 
-`"My revenge against those who quoth me is giving them choice"`
+["My revenge against those who quoth me is giving them choice"](https://discord.com/channels/702503037289365594/702503037842882582/884280136545996810)
 
-`"I should probably give @scj643 some free quotes as an apology"`
+["I should probably give @scj643 some free quotes as an apology"](https://discord.com/channels/702503037289365594/702503037842882582/884272772782632973)
 
-`"Don't worry, web design is my passion(tm), and I use Frontpage 98 for a less bloated Internet"`
+["Don't worry, web design is my passion(tm), and I use Frontpage 98 for a less bloated Internet"](https://discord.com/channels/702503037289365594/702503037842882582/884315004164268093)
 
 `"I build a machine that compile a machine"`
 
-`"It's been zero days since I last trying patching an operating system older than me to work on a machine older than me."`
+["It's been zero days since I last trying patching an operating system older than me to work on a machine older than me."](https://twitter.com/fossfirefighter/status/1435009427401318401)
 
 `"We are going to do something far stupider, because I have a bad idea"`
 
-`"This is not the channel for Good Life Decision(tm)"`
+["This is not the channel for Good Life Decision(tm)"](https://discord.com/channels/702503037289365594/702503037842882582/885768453514985473)
 
-[Pain is my eternal friend](https://discord.com/channels/702503037289365594/702503037842882582/891107337903943770)
+["Pain is my eternal friend"](https://discord.com/channels/702503037289365594/702503037842882582/891107337903943770)
