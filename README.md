@@ -56,3 +56,5 @@ Quotes from NCommander
 ["This is not the channel for Good Life Decision(tm)"](https://discord.com/channels/702503037289365594/702503037842882582/885768453514985473)
 
 ["Pain is my eternal friend"](https://discord.com/channels/702503037289365594/702503037842882582/891107337903943770)
+
+["Reinstalling Minecraft was a mistake"](https://discord.com/channels/702503037289365594/702503037842882582/891222607263838248)
