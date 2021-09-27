@@ -58,3 +58,5 @@ Quotes from NCommander
 ["Pain is my eternal friend"](https://discord.com/channels/702503037289365594/702503037842882582/891107337903943770)
 
 ["Reinstalling Minecraft was a mistake"](https://discord.com/channels/702503037289365594/702503037842882582/891222607263838248)
+
+["_laughs in Intel Professional Workstation_"](https://discord.com/channels/702503037289365594/702503037842882582/892061212727201883)
