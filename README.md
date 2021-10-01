@@ -61,6 +61,9 @@ Quotes from NCommander
 
 ["_laughs in Intel Professional Workstation_"](https://discord.com/channels/702503037289365594/702503037842882582/892061212727201883)
 
+["I feel like I'm reaching old dude territ-<br>
+nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943324456046652)
+
 ["It's strongly typed, and its very hard to break its typesystem. That record is going to have an actual string in it, and fuck your casts."](https://discord.com/channels/702503037289365594/702503037842882582/893298764561907763)
 
 ["Honestly, COBOL's type system approaches Ada's levels while having the verbosity of Shakespheres, and the debuggability of brainfuck"](https://discord.com/channels/702503037289365594/702503037842882582/893298959257337916)
