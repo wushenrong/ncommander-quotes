@@ -67,3 +67,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["It's strongly typed, and its very hard to break its typesystem. That record is going to have an actual string in it, and fuck your casts."](https://discord.com/channels/702503037289365594/702503037842882582/893298764561907763)
 
 ["Honestly, COBOL's type system approaches Ada's levels while having the verbosity of Shakespheres, and the debuggability of brainfuck"](https://discord.com/channels/702503037289365594/702503037842882582/893298959257337916)
+
+["Sometime between now, and Boston falling into the ocean 😉"](https://discord.com/channels/702503037289365594/702503037842882582/892297725163495434)
