@@ -69,3 +69,6 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["Honestly, COBOL's type system approaches Ada's levels while having the verbosity of Shakespheres, and the debuggability of brainfuck"](https://discord.com/channels/702503037289365594/702503037842882582/893298959257337916)
 
 ["Sometime between now, and Boston falling into the ocean 😉"](https://discord.com/channels/702503037289365594/702503037842882582/892297725163495434)
+
+["scj643: Oh yeah Robot Hell is in New Jersey"  
+"NCommander: ... fuck, he knows why I live in New Jersey ..."](https://discord.com/channels/702503037289365594/702503037842882582/902412492716789780)
