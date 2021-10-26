@@ -70,6 +70,8 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["Sometime between now, and Boston falling into the ocean 😉"](https://discord.com/channels/702503037289365594/702503037842882582/892297725163495434)
 
+["... what the hell would an NCard even do?"](https://discord.com/channels/702503037289365594/702503037842882582/900330356979417128)
+
 ["Today has been an entire exercise in how not to backup files ..."](https://twitter.com/FOSSfirefighter/status/1451791078823182336)
 
 ["scj643: Oh yeah Robot Hell is in New Jersey"  
