@@ -76,3 +76,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["scj643: Oh yeah Robot Hell is in New Jersey"  
 "NCommander: ... fuck, he knows why I live in New Jersey ..."](https://discord.com/channels/702503037289365594/702503037842882582/902412492716789780)
+
+["I just ordered an EISA Token Ring card ..."](https://discord.com/channels/702503037289365594/702503037842882582/915776075877994496)
