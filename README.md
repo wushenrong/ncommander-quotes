@@ -66,3 +66,22 @@ Quotes from NCommander
 ["I'm pretty sure the quotes file is going to be used as key evidence when I'm held on crimes against computing."](https://discord.com/channels/702503037289365594/803817871733686282/917475540364034080)
 
 ["Most discord servers don't talk about building a Token Ring network so I can prove that you can run Windows 95 without a hard drive"](https://discord.com/channels/702503037289365594/702503037842882582/919957856919355413)
+
+["I feel like I'm reaching old dude territ-<br>
+nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943324456046652)
+
+["It's strongly typed, and its very hard to break its typesystem. That record is going to have an actual string in it, and fuck your casts."](https://discord.com/channels/702503037289365594/702503037842882582/893298764561907763)
+
+["Honestly, COBOL's type system approaches Ada's levels while having the verbosity of Shakespheres, and the debuggability of brainfuck"](https://discord.com/channels/702503037289365594/702503037842882582/893298959257337916)
+
+["Sometime between now, and Boston falling into the ocean 😉"](https://discord.com/channels/702503037289365594/702503037842882582/892297725163495434)
+
+["... what the hell would an NCard even do?"](https://discord.com/channels/702503037289365594/702503037842882582/900330356979417128)
+
+["Today has been an entire exercise in how not to backup files ..."](https://twitter.com/FOSSfirefighter/status/1451791078823182336)
+
+["scj643: Oh yeah Robot Hell is in New Jersey"  
+"NCommander: ... fuck, he knows why I live in New Jersey ..."](https://discord.com/channels/702503037289365594/702503037842882582/902412492716789780)
+
+["I just ordered an EISA Token Ring card ..."](https://discord.com/channels/702503037289365594/702503037842882582/915776075877994496)
+
