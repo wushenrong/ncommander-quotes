@@ -60,3 +60,9 @@ Quotes from NCommander
 ["Reinstalling Minecraft was a mistake"](https://discord.com/channels/702503037289365594/702503037842882582/891222607263838248)
 
 ["_laughs in Intel Professional Workstation_"](https://discord.com/channels/702503037289365594/702503037842882582/892061212727201883)
+
+["Let's not make the Portable actually portable 😛"](https://discord.com/channels/702503037289365594/702503037842882582/892747572417019905)
+
+["I'm pretty sure the quotes file is going to be used as key evidence when I'm held on crimes against computing."](https://discord.com/channels/702503037289365594/803817871733686282/917475540364034080)
+
+["Most discord servers don't talk about building a Token Ring network so I can prove that you can run Windows 95 without a hard drive"](https://discord.com/channels/702503037289365594/702503037842882582/919957856919355413)
