@@ -91,3 +91,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  "Ncommander: jfc, you actually stopped my train of thought"](https://discord.com/channels/702503037289365594/702503037842882582/927231415429509201)
 
 ["Ncommander: @Nyalexys I'm a monument FOR WHAT YOU'RE NOT SUPPOSED TO DO"](https://discord.com/channels/702503037289365594/702503037842882582/927231566474784859)
+
+`"I miss Windows CE"`
