@@ -87,5 +87,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["Nyalexys (Alexys):i'm half tempted to make a thing to build java with msbuild just to fuck with people"
  "Ncommander: @Nyalexys but why"
+ "Nyalexys (Alexys): . (just to fuck with people)"
  "Ncommander: jfc, you actually stopped my train of thought"](https://discord.com/channels/702503037289365594/702503037842882582/927231415429509201)
+
 ["Ncommander: @Nyalexys I'm a monument FOR WHAT YOU'RE NOT SUPPOSED TO DO"](https://discord.com/channels/702503037289365594/702503037842882582/927231566474784859)
