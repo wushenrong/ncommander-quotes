@@ -97,3 +97,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["The best way to explain the neigherhood was a bunch of people who bought their personalities from a Sears catalog"](https://discord.com/channels/702503037289365594/810167870935531530/929196703607844864)
 
 Todo https://discord.com/channels/702503037289365594/702503037842882582/937906173288546394
+
+Todo https://discord.com/channels/702503037289365594/702503037842882582/939197566170591403
