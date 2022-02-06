@@ -81,7 +81,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["Today has been an entire exercise in how not to backup files ..."](https://twitter.com/FOSSfirefighter/status/1451791078823182336)
 
 ["scj643: Oh yeah Robot Hell is in New Jersey"  
-"NCommander: ... fuck, he knows why I live in New Jersey ..."](https://discord.com/channels/702503037289365594/702503037842882582/902412492716789780)
+ "NCommander: ... fuck, he knows why I live in New Jersey ..."](https://discord.com/channels/702503037289365594/702503037842882582/902412492716789780)
 
 ["I just ordered an EISA Token Ring card ..."](https://discord.com/channels/702503037289365594/702503037842882582/915776075877994496)
 
@@ -96,6 +96,21 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["The best way to explain the neigherhood was a bunch of people who bought their personalities from a Sears catalog"](https://discord.com/channels/702503037289365594/810167870935531530/929196703607844864)
 
-Todo https://discord.com/channels/702503037289365594/702503037842882582/937906173288546394
+["Bytewave: NCommander Minecraft server?
+ MCCommander, if you wil?"
+ "NCommander (Bytewave): ... it was at this moment, NCommander knew he fucked up ..."](https://discord.com/channels/702503037289365594/702503037842882582/937906173288546394)
 
-Todo https://discord.com/channels/702503037289365594/702503037842882582/939197566170591403
+["hibi: MorningCommander"
+ "LycanAnanas (hibi): N in NCommander stands for Night 😄"
+ "pJowok: MNCommander? Midnight Commander? 😄"
+ "LycanAnanas: MC 😄
+ Oh i get it.. It is Norton Commander, NCommander"
+ "LycanAnanas: I just  realised it now
+ But there are more NCommander possible
+ DCommander = Double Commander
+ MCommander = Midnight Commander
+ TCommander = Total Commander
+ WCommander = Windows Commander"
+ "NCommander (LycanAnanas): ... thanks, I hate it ..."](https://discord.com/channels/702503037289365594/702503037842882582/939197566170591403)
+
+["DIsNCord: Either we broaden your horizons, or drive you mad in the attempt"](https://discord.com/channels/702503037289365594/702503037842882582/939869805429788782)
