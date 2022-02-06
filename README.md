@@ -67,7 +67,7 @@ Quotes from NCommander
 
 ["Most discord servers don't talk about building a Token Ring network so I can prove that you can run Windows 95 without a hard drive"](https://discord.com/channels/702503037289365594/702503037842882582/919957856919355413)
 
-["I feel like I'm reaching old dude territ-<br>
+["I feel like I'm reaching old dude territ-  
 nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943324456046652)
 
 ["It's strongly typed, and its very hard to break its typesystem. That record is going to have an actual string in it, and fuck your casts."](https://discord.com/channels/702503037289365594/702503037842882582/893298764561907763)
@@ -96,24 +96,24 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["The best way to explain the neigherhood was a bunch of people who bought their personalities from a Sears catalog"](https://discord.com/channels/702503037289365594/810167870935531530/929196703607844864)
 
-["Bytewave: NCommander Minecraft server?
- MCCommander, if you wil?"
+["Bytewave: NCommander Minecraft server?  
+ MCCommander, if you wil?"  
  "NCommander (Bytewave): ... it was at this moment, NCommander knew he fucked up ..."](https://discord.com/channels/702503037289365594/702503037842882582/937906173288546394)
 
-["hibi: MorningCommander"
- "LycanAnanas (hibi): N in NCommander stands for Night 😄"
- "pJowok: MNCommander? Midnight Commander? 😄"
- "LycanAnanas: MC 😄
- Oh i get it.. It is Norton Commander, NCommander"
- "LycanAnanas: I just  realised it now
- But there are more NCommander possible
- DCommander = Double Commander
- MCommander = Midnight Commander
- TCommander = Total Commander
- WCommander = Windows Commander"
- "NCommander (LycanAnanas): ... thanks, I hate it ..."](https://discord.com/channels/702503037289365594/702503037842882582/939197566170591403)
+["hibi: MorningCommander"  
+ "LycanAnanas (hibi): N in NCommander stands for Night 😄"  
+ "pJowok: MNCommander? Midnight Commander? 😄"  
+ "LycanAnanas: MC 😄  
+ Oh i get it.. It is Norton Commander, NCommander"  
+ "LycanAnanas: I just  realised it now  
+ But there are more NCommander possible  
+ DCommander = Double Commander  
+ MCommander = Midnight Commander  
+ TCommander = Total Commander  
+ WCommander = Windows Commander"  
+ "NCommander (LycanAnanas): ... thanks, I hate it ..."](https://discord.com/channels/702503037289365594/702503037842882582/939154772416675860)
 
 ["DIsNCord: Either we broaden your horizons, or drive you mad in the attempt"](https://discord.com/channels/702503037289365594/702503037842882582/939869805429788782)
 
-["Right, so I'm NyaaCommander now
+["Right, so I'm NyaaCommander now<br>
  nyaa"](https://discord.com/channels/702503037289365594/925863139390677052/926685617167945738)
