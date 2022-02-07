@@ -119,3 +119,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  nyaa"](https://discord.com/channels/702503037289365594/925863139390677052/926685617167945738)
 
 ["There's a difference between a healthy relationship and using AWS"](https://discord.com/channels/702503037289365594/702503037842882582/940339998295744534)
+
+["Acher: okay so how exactly does smarthosting work"  
+ "miko (Acher): it's hosting, but smart"  
+ "NCommander (miko): It's the opposite of the typical techbro"](https://discord.com/channels/702503037289365594/702503037842882582/940376324760023090)
