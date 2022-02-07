@@ -115,5 +115,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["DIsNCord: Either we broaden your horizons, or drive you mad in the attempt"](https://discord.com/channels/702503037289365594/702503037842882582/939869805429788782)
 
-["Right, so I'm NyaaCommander now<br>
+["Right, so I'm NyaaCommander now  
  nyaa"](https://discord.com/channels/702503037289365594/925863139390677052/926685617167945738)
+
+["There's a difference between a healthy relationship and using AWS"](https://discord.com/channels/702503037289365594/702503037842882582/940339998295744534)
