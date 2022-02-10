@@ -1,5 +1,9 @@
 # NCommander-quotes
+
 Quotes from NCommander
+
+Guide: `code blocks` are from videos and streams. `[]` are discord username if they are different from their
+server nickname. `()` are replays in discord to the last message that mentions the user in the quotes.
 
 `"And yes HP-UX I’m looking directly at you"`
 
@@ -85,9 +89,9 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["I just ordered an EISA Token Ring card ..."](https://discord.com/channels/702503037289365594/702503037842882582/915776075877994496)
 
-["Nyalexys (Alexys):i'm half tempted to make a thing to build java with msbuild just to fuck with people"  
+["Nyalexys [Alexys]:i'm half tempted to make a thing to build java with msbuild just to fuck with people"  
  "Ncommander: @Nyalexys but why"  
- "Nyalexys (Alexys): . (just to fuck with people)"  
+ "Nyalexys [Alexys]: . (just to fuck with people)"  
  "Ncommander: jfc, you actually stopped my train of thought"](https://discord.com/channels/702503037289365594/702503037842882582/927231415429509201)
 
 ["Ncommander: @Nyalexys I'm a monument FOR WHAT YOU'RE NOT SUPPOSED TO DO"](https://discord.com/channels/702503037289365594/702503037842882582/927231566474784859)
@@ -102,7 +106,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["hibi: MorningCommander"  
  "LycanAnanas (hibi): N in NCommander stands for Night 😄"  
- "pJowok: MNCommander? Midnight Commander? 😄"  
+ "pJowok [pJok]: MNCommander? Midnight Commander? 😄"  
  "LycanAnanas: MC 😄  
  Oh i get it.. It is Norton Commander, NCommander"  
  "LycanAnanas: I just  realised it now  
@@ -123,3 +127,19 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["Acher: okay so how exactly does smarthosting work"  
  "miko (Acher): it's hosting, but smart"  
  "NCommander (miko): It's the opposite of the typical techbro"](https://discord.com/channels/702503037289365594/702503037842882582/940376324760023090)
+
+["NCommander: You know, I've heard of birds being dicks ... (slightly NSFW)__
+ {shows an actual picture of a cock}  
+ ^- @sadmac356"  
+ "sadmac356: What…I don't know how to respond to that"  
+ "NCommander (sadmac356): I just wanted to break your brain a bit"  
+ "sadmac356: Well you've done that a good bit lately"  
+ "NCommander (sadmac356): I feast on broken minds  
+ nom"  
+ "sadmac356: I…and you just did it again"  
+ "NCommander: ... but ... I wasn't trying to ..."  
+ "sadmac356: Well it's what you do, I'm not mad"  
+ "NCommander (sadmac356): but .... I might accidently break someones mind when I'm not intending. I'm  not Cthulhu ..."  
+ "sadmac356: No, but you are an agent of chaos"  
+ "NCommander (sadmac356): So I'm Discord?
+ finger snaps"  ](https://discord.com/channels/702503037289365594/810167870935531530/941105185281957968)
