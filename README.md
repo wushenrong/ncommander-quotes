@@ -2,8 +2,9 @@
 
 Quotes from NCommander
 
-Guide: `code blocks` are from videos and streams. `[]` are discord username if they are different from their
-server nickname. `()` are replays in discord to the last message that mentions the user in the quotes.
+Guide: `code` are from videos and streams. Links are discord messages at the start of the chain. `[]`
+are discord username if they are different from their server nickname. `()` are replies in
+discord to the last message that mentions the user in the quotes.
 
 `"And yes HP-UX I’m looking directly at you"`
 
