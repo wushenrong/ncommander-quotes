@@ -144,3 +144,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  "sadmac356: No, but you are an agent of chaos"  
  "NCommander (sadmac356): So I'm Discord?
  finger snaps"  ](https://discord.com/channels/702503037289365594/810167870935531530/941105185281957968)
+
+["I'M GOING TO DEBUG THE INSTALLER"](https://discord.com/channels/702503037289365594/702503037842882582/947981352983228467)
+
+`"X11 is evil and bad and evil and bad"`
