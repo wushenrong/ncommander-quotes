@@ -26,9 +26,7 @@ discord to the last message that mentions the user in the quotes.
 
 `"One one hand I have an awesome community. On the other hand they want me to run OpenVMS"`
 
-`"You could probabbly cross compile it"`
-
-`"I have issues"`
+`"You could probabbly cross compile it"
 
 `"We are doing fips for um.. maximum pain"`
 
@@ -146,5 +144,3 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  finger snaps"  ](https://discord.com/channels/702503037289365594/810167870935531530/941105185281957968)
 
 ["I'M GOING TO DEBUG THE INSTALLER"](https://discord.com/channels/702503037289365594/702503037842882582/947981352983228467)
-
-`"X11 is evil and bad and evil and bad"`
