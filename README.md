@@ -127,7 +127,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  "miko (Acher): it's hosting, but smart"  
  "NCommander (miko): It's the opposite of the typical techbro"](https://discord.com/channels/702503037289365594/702503037842882582/940376324760023090)
 
-["NCommander: You know, I've heard of birds being dicks ... (slightly NSFW)__
+["NCommander: You know, I've heard of birds being dicks ... (slightly NSFW)  
  {shows an actual picture of a cock}  
  ^- @sadmac356"  
  "sadmac356: What…I don't know how to respond to that"  
@@ -144,3 +144,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  finger snaps"  ](https://discord.com/channels/702503037289365594/810167870935531530/941105185281957968)
 
 ["I'M GOING TO DEBUG THE INSTALLER"](https://discord.com/channels/702503037289365594/702503037842882582/947981352983228467)
+
+["miko: wait a minute, this isn't solaris  
+ {Shows an picture of FreeBSD with Motif}"  
+ "NCommander (miko): I think you bought the "I can't believe it's not UNIX" all UNIX alternative"](https://discord.com/channels/702503037289365594/810167870935531530/953563993031712778)
