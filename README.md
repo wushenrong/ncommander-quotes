@@ -148,3 +148,7 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["miko: wait a minute, this isn't solaris  
  {Shows an picture of FreeBSD with Motif}"  
  "NCommander (miko): I think you bought the "I can't believe it's not UNIX" all UNIX alternative"](https://discord.com/channels/702503037289365594/810167870935531530/953563993031712778)
+
+["NCommander: man, I just looked at the pins, and 90% of it he me suffering, and 10% shitposting"  
+ "sadmac356 (NCommander): What'd you expect?  
+ "NCommander (sadmac356): Less obvious proof that I'm apparently into retro-BDSM"](https://discord.com/channels/702503037289365594/702503037842882582/966778825906192394)
