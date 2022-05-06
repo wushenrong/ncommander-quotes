@@ -154,3 +154,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  "NCommander (sadmac356): Less obvious proof that I'm apparently into retro-BDSM"](https://discord.com/channels/702503037289365594/702503037842882582/966778825906192394)
 
 `"That had no freaking right to work"`
+
+["NCommander: @vellvda obviously, when you make the UEFI bootloader, you'll have to assign it a UwUID"](https://discord.com/channels/702503037289365594/702503037842882582/971971837200306176)
