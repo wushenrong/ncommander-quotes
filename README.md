@@ -158,3 +158,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["NCommander: @vellvda obviously, when you make the UEFI bootloader, you'll have to assign it a UwUID"](https://discord.com/channels/702503037289365594/702503037842882582/971971837200306176)
 
 ["NCommander: ... god my entire channel is one man's exploration into BDSM"](https://discord.com/channels/702503037289365594/702503037842882582/974022763864027176)
+
+`"We aren't talking about very long instruction words on a pregnancy test."`
