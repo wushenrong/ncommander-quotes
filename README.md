@@ -160,3 +160,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["NCommander: ... god my entire channel is one man's exploration into BDSM"](https://discord.com/channels/702503037289365594/702503037842882582/974022763864027176)
 
 `"We aren't talking about very long instruction words on a pregnancy test."`
+
+`"Future new users in the future"`
