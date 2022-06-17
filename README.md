@@ -162,3 +162,6 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 `"We aren't talking about very long instruction words on a pregnancy test."`
 
 `"Future new users in the future"`
+
+["Sun Studio [Europa]: I hate to admit it, cuz Oracle, but that makes a lot of sense and I really like that xD"  
+ "NCommander (Sun Studio): Retrocomputing is the technological BDSM of the mind."](https://discord.com/channels/702503037289365594/810167870935531530/987202102331846656)
