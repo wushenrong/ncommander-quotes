@@ -26,7 +26,7 @@ discord to the last message that mentions the user in the quotes.
 
 `"One one hand I have an awesome community. On the other hand they want me to run OpenVMS"`
 
-`"You could probabbly cross compile it"
+`"You could probabbly cross compile it"`
 
 `"We are doing fips for um.. maximum pain"`
 
