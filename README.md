@@ -168,4 +168,6 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["NCommander: Death by platonic snoo snoo"](https://discord.com/channels/702503037289365594/702503037842882582/991765418828120194)
 
-`"now we had a conversation about fire extinguishers you should buy for your vintage computers"`
+`"Now we had a conversation about fire extinguishers you should buy for your vintage computers."`
+
+`"It can be f00fed."`
