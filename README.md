@@ -167,3 +167,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  "NCommander (Sun Studio): Retrocomputing is the technological BDSM of the mind."](https://discord.com/channels/702503037289365594/810167870935531530/987202102331846656)
 
 ["NCommander: Death by platonic snoo snoo"](https://discord.com/channels/702503037289365594/702503037842882582/991765418828120194)
+
+`"now we had a conversation about fire extinguishers you should buy for your vintage computers"`
