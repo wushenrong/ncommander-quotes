@@ -44,31 +44,13 @@ discord to the last message that mentions the user in the quotes.
 
 `"Welcome to IBM Operating System divided by 2"`
 
-["My revenge against those who quoth me is giving them choice"](https://discord.com/channels/702503037289365594/702503037842882582/884280136545996810)
-
 ["I should probably give @scj643 some free quotes as an apology"](https://discord.com/channels/702503037289365594/702503037842882582/884272772782632973)
-
-["Don't worry, web design is my passion(tm), and I use Frontpage 98 for a less bloated Internet"](https://discord.com/channels/702503037289365594/702503037842882582/884315004164268093)
 
 `"I build a machine that compile a machine"`
 
 ["It's been zero days since I last trying patching an operating system older than me to work on a machine older than me."](https://twitter.com/fossfirefighter/status/1435009427401318401)
 
 `"We are going to do something far stupider, because I have a bad idea"`
-
-["This is not the channel for Good Life Decision(tm)"](https://discord.com/channels/702503037289365594/702503037842882582/885768453514985473)
-
-["Pain is my eternal friend"](https://discord.com/channels/702503037289365594/702503037842882582/891107337903943770)
-
-["Reinstalling Minecraft was a mistake"](https://discord.com/channels/702503037289365594/702503037842882582/891222607263838248)
-
-["_laughs in Intel Professional Workstation_"](https://discord.com/channels/702503037289365594/702503037842882582/892061212727201883)
-
-["Let's not make the Portable actually portable 😛"](https://discord.com/channels/702503037289365594/702503037842882582/892747572417019905)
-
-["I'm pretty sure the quotes file is going to be used as key evidence when I'm held on crimes against computing."](https://discord.com/channels/702503037289365594/803817871733686282/917475540364034080)
-
-["Most discord servers don't talk about building a Token Ring network so I can prove that you can run Windows 95 without a hard drive"](https://discord.com/channels/702503037289365594/702503037842882582/919957856919355413)
 
 ["I feel like I'm reaching old dude territ-  
 nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943324456046652)
@@ -77,16 +59,10 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["Honestly, COBOL's type system approaches Ada's levels while having the verbosity of Shakespheres, and the debuggability of brainfuck"](https://discord.com/channels/702503037289365594/702503037842882582/893298959257337916)
 
-["Sometime between now, and Boston falling into the ocean 😉"](https://discord.com/channels/702503037289365594/702503037842882582/892297725163495434)
-
-["... what the hell would an NCard even do?"](https://discord.com/channels/702503037289365594/702503037842882582/900330356979417128)
-
 ["Today has been an entire exercise in how not to backup files ..."](https://twitter.com/FOSSfirefighter/status/1451791078823182336)
 
 ["scj643: Oh yeah Robot Hell is in New Jersey"  
  "NCommander: ... fuck, he knows why I live in New Jersey ..."](https://discord.com/channels/702503037289365594/702503037842882582/902412492716789780)
-
-["I just ordered an EISA Token Ring card ..."](https://discord.com/channels/702503037289365594/702503037842882582/915776075877994496)
 
 ["Nyalexys [Alexys]:i'm half tempted to make a thing to build java with msbuild just to fuck with people"  
  "Ncommander: @Nyalexys but why"  
@@ -96,8 +72,6 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 ["Ncommander: @Nyalexys I'm a monument FOR WHAT YOU'RE NOT SUPPOSED TO DO"](https://discord.com/channels/702503037289365594/702503037842882582/927231566474784859)
 
 `"I miss Windows CE"`
-
-["The best way to explain the neigherhood was a bunch of people who bought their personalities from a Sears catalog"](https://discord.com/channels/702503037289365594/810167870935531530/929196703607844864)
 
 ["Bytewave: NCommander Minecraft server?  
  MCCommander, if you wil?"  
@@ -116,12 +90,8 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  WCommander = Windows Commander"  
  "NCommander (LycanAnanas): ... thanks, I hate it ..."](https://discord.com/channels/702503037289365594/702503037842882582/939154772416675860)
 
-["DIsNCord: Either we broaden your horizons, or drive you mad in the attempt"](https://discord.com/channels/702503037289365594/702503037842882582/939869805429788782)
-
 ["Right, so I'm NyaaCommander now  
  nyaa"](https://discord.com/channels/702503037289365594/925863139390677052/926685617167945738)
-
-["There's a difference between a healthy relationship and using AWS"](https://discord.com/channels/702503037289365594/702503037842882582/940339998295744534)
 
 ["Acher: okay so how exactly does smarthosting work"  
  "miko (Acher): it's hosting, but smart"  
@@ -143,8 +113,6 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
  "NCommander (sadmac356): So I'm Discord?
  finger snaps"  ](https://discord.com/channels/702503037289365594/810167870935531530/941105185281957968)
 
-["I'M GOING TO DEBUG THE INSTALLER"](https://discord.com/channels/702503037289365594/702503037842882582/947981352983228467)
-
 ["miko: wait a minute, this isn't solaris  
  {Shows an picture of FreeBSD with Motif}"  
  "NCommander (miko): I think you bought the "I can't believe it's not UNIX" all UNIX alternative"](https://discord.com/channels/702503037289365594/810167870935531530/953563993031712778)
@@ -157,16 +125,12 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 
 ["NCommander: @vellvda obviously, when you make the UEFI bootloader, you'll have to assign it a UwUID"](https://discord.com/channels/702503037289365594/702503037842882582/971971837200306176)
 
-["NCommander: ... god my entire channel is one man's exploration into BDSM"](https://discord.com/channels/702503037289365594/702503037842882582/974022763864027176)
-
 `"We aren't talking about very long instruction words on a pregnancy test."`
 
 `"Future new users in the future"`
 
 ["Sun Studio [Europa]: I hate to admit it, cuz Oracle, but that makes a lot of sense and I really like that xD"  
  "NCommander (Sun Studio): Retrocomputing is the technological BDSM of the mind."](https://discord.com/channels/702503037289365594/810167870935531530/987202102331846656)
-
-["NCommander: Death by platonic snoo snoo"](https://discord.com/channels/702503037289365594/702503037842882582/991765418828120194)
 
 `"Now we had a conversation about fire extinguishers you should buy for your vintage computers."`
 
