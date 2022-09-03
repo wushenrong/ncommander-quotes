@@ -171,3 +171,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 `"Now we had a conversation about fire extinguishers you should buy for your vintage computers."`
 
 `"It can be f00fed."`
+
+["Restless Yankee [NCommander]: oh man, having fresh clipped nails is like having incredibly fresh guacamole at that one mexican place that looks dingy, but is super authentic"](https://discord.com/channels/702503037289365594/702503037842882582/1015337090797551736)
