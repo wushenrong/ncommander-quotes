@@ -173,3 +173,5 @@ nope"](https://discord.com/channels/702503037289365594/702503037842882582/892943
 `"It can be f00fed."`
 
 ["Restless Yankee [NCommander]: oh man, having fresh clipped nails is like having incredibly fresh guacamole at that one mexican place that looks dingy, but is super authentic"](https://discord.com/channels/702503037289365594/702503037842882582/1015337090797551736)
+
+["Restless Yankee [NCommander]: Family friendly BDSM"](https://discord.com/channels/702503037289365594/980067596214894622/1036268254756360242)
